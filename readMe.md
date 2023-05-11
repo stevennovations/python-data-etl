@@ -1,5 +1,3 @@
-Sure, here's a sample `README.md` file for the script:
-
 # CSV Splitter
 
 This Python script reads in a CSV file and splits it into separate files by entity. Each output file contains rows corresponding to a single entity from the input file. The output files have uppercase column headings.
