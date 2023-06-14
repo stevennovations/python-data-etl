@@ -7,8 +7,7 @@ This Python script reads in a CSV file and splits it into separate files by enti
 To use this script, follow these steps:
 
 1. Install Python 3.x on your system, if it is not already installed.
-2. Save the `main.py` script to a directory on your system.
-3. Open a command prompt or terminal and navigate to the directory containing the `main.py` script.
+2. Pull this repository and 
 4. Run the script using the following command:
 
    ```
